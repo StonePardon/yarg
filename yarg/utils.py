@@ -2,6 +2,7 @@ from typing import Optional, Tuple
 
 import idc
 import idaapi
+import ida_ida
 import ida_kernwin as kw
 
 from capstone.x86_const import *
